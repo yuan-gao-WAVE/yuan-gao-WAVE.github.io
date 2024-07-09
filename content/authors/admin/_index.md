@@ -37,7 +37,7 @@ user_groups:
           - Principal Investigators
 ---
 
-<p>I am an Assistant Professor at the <a href="https://www.gbu.edu.cn/menu/177">School of Information Science and Technology</a> at <a href="https://www.gbu.edu.cn/">Great Bay University</a>. I earned my Ph.D. in Electrical Engineering from the Missouri University of Science and Technology in 2019, my Master's degree from Harbin Institute of Technology Shenzhen Graduate School in 2013, and my Bachelor's degree from Hefei University of Technology in 2010. I have published over ten papers in IEEE journals and conferences and received multiple conference paper awards and one IEEE Society fellowship. From 2019 to 2024, I worked on the electromagnetic design of consumer electronics products at Apple. 
+<p>I am an Assistant Professor at the <a href="https://www.gbu.edu.cn/menu/177">School of Information Science and Technology</a>, <a href="https://www.gbu.edu.cn/">Great Bay University</a>. I earned my Ph.D. in Electrical Engineering from the Missouri University of Science and Technology in 2019, my Master's degree from Harbin Institute of Technology Shenzhen Graduate School in 2013, and my Bachelor's degree from Hefei University of Technology in 2010. I have published over ten papers in IEEE journals and conferences and received multiple conference paper awards and one IEEE Society fellowship. From 2019 to 2024, I worked on the electromagnetic design of consumer electronics products at Apple. 
 
 I am an active reviewer for IEEE journals and have received the Outstanding Reviewer Award from IEEE Transactions on Instrumentation and Measurement (TIM) twice. Additionally, I serve as an Associate Editor for the same journal and have been honored with the Outstanding Associate Editor Award once.
 
