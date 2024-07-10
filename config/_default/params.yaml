@@ -117,3 +117,7 @@ publications:
   date_format: January 2006
   citation_style: apa
 
+parameters:
+  logo:
+     text: WAVE Lab 
+     icon: logo.png
