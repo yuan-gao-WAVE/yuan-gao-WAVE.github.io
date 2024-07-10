@@ -10,7 +10,8 @@ authors:
 publication: In *IEEE Transactions on Instrumentation and Measurement*
 publication_short: In *IEEE Transactions on Instrumentation and Measurement*
 abstract: test
-
+summary: mmWave Skin Burn 
+tags: [J1]
 featured: false
 image:
   filename: featured
