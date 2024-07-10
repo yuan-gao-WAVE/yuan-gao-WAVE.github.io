@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: WAVE Lab
 date: Jan 2006
 type: widget_page
 sections:
