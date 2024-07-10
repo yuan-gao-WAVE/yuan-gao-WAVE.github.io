@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: WAVE Lab
+title:
 date: Jan 2006
 type: widget_page
 sections:
@@ -11,5 +11,5 @@ sections:
       # Path to the logo images within the `assets/media/` folder
       logo_folder: logos
     design:
-      columns: '1'  
+      columns: '2'  
 ---
