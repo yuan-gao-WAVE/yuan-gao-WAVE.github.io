@@ -41,6 +41,6 @@ user_groups:
 
 I am an active reviewer for IEEE journals and have received the Outstanding Reviewer Award from IEEE Transactions on Instrumentation and Measurement (TIM) twice. Additionally, I serve as an Associate Editor for the same journal and have been honored with the Outstanding Associate Editor Award once.
 
-In September 2024, I joined Great Bay University and founded the WAVE Lab. My research interests focus on broadening the scope and modality of electromagnetic sensing and advancing electromagnetic applications by leveraging the development of augmented reality/virtual reality (AR/VR) and artificial intelligence (AI).
+In September 2024, I joined Great Bay University and founded the WAVE Lab (Wireless and Applied Visualization in Electromagnetics Lab). My research interests focus on broadening the scope and modality of electromagnetic sensing and advancing electromagnetic applications by leveraging the development of augmented reality/virtual reality (AR/VR) and artificial intelligence (AI).
 
 We have multiple openings for various roles, please check <a href="https://yuan-gao-wave.github.io/openings/">Openings</a> for more details.
