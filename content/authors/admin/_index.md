@@ -5,9 +5,9 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Electromagnetic Compatibility
-  - Microwave Engineering
   - Microwave Imaging
-  - Microwave Imaging
+  - Antenna Design
+  - Electromagnetic Nondestructive Testing and Evaluation
 social:
   - icon: envelope
     icon_pack: fas
@@ -34,7 +34,7 @@ email: ""
 superuser: true
 highlight_name: true
 user_groups:
-          - Principal Investigators
+          - Principal Investigator
 ---
 
 <p>I am an Assistant Professor at the <a href="https://www.gbu.edu.cn/menu/177">School of Information Science and Technology</a>, <a href="https://www.gbu.edu.cn/">Great Bay University</a>. I earned my Ph.D. in Electrical Engineering from the Missouri University of Science and Technology in 2019, my Master's degree from Harbin Institute of Technology Shenzhen Graduate School in 2013, and my Bachelor's degree from Hefei University of Technology in 2010. I have published over ten papers in IEEE journals and conferences and received multiple conference paper awards and one IEEE Society fellowship. From 2019 to 2024, I worked on the electromagnetic design of consumer electronics products at Apple. 
