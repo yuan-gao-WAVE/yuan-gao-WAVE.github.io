@@ -7,7 +7,7 @@ interests:
   - Electromagnetic Compatibility
   - Microwave Imaging
   - Antenna Design
-  - Electromagnetic Nondestructive Testing and Evaluation
+  - Nondestructive Testing and Evaluation
 social:
   - icon: envelope
     icon_pack: fas
