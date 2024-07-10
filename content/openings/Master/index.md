@@ -1,9 +1,25 @@
 ---
-title: Two Openings for Researchers
+title: Openings for Master Students (2025 Fall)
 date: 2024-07-09
 ---
 
-There are one PhD opening for 2025 Spring, application starts on 9/9, close on 9/30 
+I have two openings for master students in 2025 fall semster. Application open 9/9 to 9/30. Please reach out through email and detailed instructions are shown below.
 <!--more-->
 
-博士生招聘
+一、导师简介
+
+高原，大湾区大学（筹）先进工程学院助理教授、研究员、独立PI。密苏里科技大学博士、前Apple高级电磁兼容工程师。课题组主要从事电磁兼容设计，微波毫米波成像，天线设计，电磁无损检测，以及AR/VR和AI驱动的应用电磁技术等方面的研究。
+
+二、招生方向
+
+
+三、招生信息
+
+
+五、招生条件
+
+六、招生流程
+
+七、课题组相关
+
+八、联系方式

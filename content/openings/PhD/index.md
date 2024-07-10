@@ -1,9 +1,25 @@
 ---
-title: Two Openings for Researchers
+title: Openings for PhD (2025 Spring)
 date: 2024-07-09
 ---
-
-There are one PhD opening for 2025 Spring, application starts on 9/9, close on 9/30 
+I have one opening for PhD in 2025 spring semster. Application open 9/9 to 9/30. Please reach out through email and detailed instructions are shown below.
 <!--more-->
 
-博士生招聘
+一、导师简介
+
+高原，大湾区大学（筹）先进工程学院助理教授、研究员、独立PI。密苏里科技大学博士、前Apple高级电磁兼容工程师。课题组主要从事电磁兼容设计，微波毫米波成像，天线设计，电磁无损检测，以及AR/VR和AI驱动的应用电磁技术等方面的研究。
+
+二、招生方向
+
+
+三、招生信息
+
+- 博士研究生：计算机视觉、深度学习、人工智能等相关领域（与哈尔滨工业大学（深圳）联培1名）。博士招生方式拟为 “申请-考核”制招生，招生计划将根据国家及学校专项计划确定。全日制非定向类学生，基本修业年限为4年，最长不超过6年。拟第一学年主要在哈尔滨工业大学（深圳）学习与上课，从第二学年开始，拟在大湾区大学开展科研与完成毕业论文。联培博士生在学制时间内的奖助学金额度不低于联培学校同等学生标准。提供优越的科研、生活条件。满足博士学位的基本要求者，颁发哈尔滨工业大学学历学位证书。详情见湾大-哈工深联培招生项目链接。（哈工深学校评估考虑本硕985或全球排名前200的高校优先）
+
+五、招生条件
+
+六、招生流程
+
+七、课题组相关
+
+八、联系方式
