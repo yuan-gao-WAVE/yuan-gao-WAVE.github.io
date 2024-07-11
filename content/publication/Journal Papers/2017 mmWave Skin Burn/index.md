@@ -3,7 +3,7 @@ draft: false
 doi: 10.1109/TIM.2016.2620778
 title: Millimeter wave reflectometry and imaging for noninvasive diagnosis of skin burn injuries
 publication_types:
-  - "Journal article"
+  - "article-journal"
 authors:
   - Yuan Gao
   - Reza Zoughi
