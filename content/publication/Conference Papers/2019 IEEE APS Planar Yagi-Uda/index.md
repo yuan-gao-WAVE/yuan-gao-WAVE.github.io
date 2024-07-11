@@ -3,7 +3,8 @@ draft: false
 doi: 10.1109/APUSNCURSINRSM.2019.8888588
 title: Design of a Planar Wideband Yagi-Uda Antenna for Millimeter Wave SAR Imaging Application
 
-publication_types: ["Conference paper"]
+publication_types:
+  - "1"
 authors:
   - Yuan Gao
   - Mohammad Tayeb Ghasr
