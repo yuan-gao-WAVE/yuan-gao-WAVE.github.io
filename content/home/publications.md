@@ -8,7 +8,7 @@ subtitle: ""
 content:
   filters:
     folders:
-      - publications
+      - publication
     tag: ""
     category: ""
     publication_type: ""
@@ -25,5 +25,5 @@ design:
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publications/).
+Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}
