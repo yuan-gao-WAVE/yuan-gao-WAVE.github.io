@@ -4,7 +4,7 @@ doi: 10.1109/TIM.2019.2952479
 title: Complex Permittivity Extraction From Synthetic Aperture Radar Images
 
 
-publication_types: ["Journal Paper"]
+publication_types: ["Journal article"]
 authors:
   - Yuan Gao
   - Mohammad Tayeb Al Qaseer

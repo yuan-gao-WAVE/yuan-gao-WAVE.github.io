@@ -4,7 +4,7 @@ doi: 10.1109/TIM.2019.2918371
 title: Time-Reversal SAR Imaging for Nondestructive Testing of Circular and Cylindrical Multilayered Dielectric Structures
 
 
-publication_types: ["Journal Paper"]
+publication_types: ["Journal article"]
 authors:
   - Baolong Wu
   - Yuan Gao

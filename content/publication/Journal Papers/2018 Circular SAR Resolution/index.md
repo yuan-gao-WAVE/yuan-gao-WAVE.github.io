@@ -4,7 +4,7 @@ doi: 10.1109/TIM.2018.2830756
 title: Resolution-Based Analysis for Optimizing Subaperture Measurements in Circular SAR Imaging
 
 
-publication_types: ["Journal Paper"]
+publication_types: ["Journal article"]
 authors:
   - Baolong Wu
   - Yuan Gao
