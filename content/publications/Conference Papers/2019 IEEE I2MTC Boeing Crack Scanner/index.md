@@ -3,7 +3,7 @@ draft: false
 doi: 10.1109/I2MTC.2019.8826970
 title: Millimeter wave differential probe system for surface crack detection in painted aircraft fuselage
 
-publication_types: ["article-journal"]
+publication_types: ['paper-conference']
 authors:
   - Yuan Gao
   - M. T. Ghasr
