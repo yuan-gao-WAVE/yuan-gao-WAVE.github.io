@@ -4,7 +4,7 @@ doi:
 title: Handheld microwave imaging system for inspection of non-metallic Structures
 url_pdf: 'https://www.iastatedigitalpress.com/qnde/article/id/8625/'
 publication_types:
-  - "1"
+  - "Conference paper"
 authors:
   - Mohammad Tayeb Ghasr
   - Yuan Gao

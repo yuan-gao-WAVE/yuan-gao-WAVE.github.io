@@ -5,7 +5,7 @@ title: Time-Reversal SAR Imaging for Nondestructive Testing of Circular and Cyli
 
 
 publication_types:
-  - "2"
+  - "Journal article"
 authors:
   - Baolong Wu
   - Yuan Gao

@@ -5,7 +5,7 @@ title: Towards Accurate and Wideband In Vivo Measurement of Skin Dielectric Prop
 
 
 publication_types:
-  - "2"
+  - "Journal article"
 authors:
   - Yuan Gao
   - Mohammad Tayeb Ghasr

@@ -4,7 +4,7 @@ doi: 10.1109/OJIM.2022.3175249
 title: Design of a Novel Frequency-Coded Chipless RFID Tag
 
 publication_types:
-  - "2"
+  - "Journal article"
 authors:
   - Yuan Gao
   - Mahboobeh Mahmoodi

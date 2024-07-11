@@ -4,7 +4,7 @@ doi: 10.1109/I2MTC.2016.7520407
 title: Millimeter Reflectometry as an Effective Diagnosis Tool for Skin Burn Injuries
 url_pdf: ''
 publication_types:
-  - "1"
+  - "Conference paper"
 authors:
   - Yuan Gao
   - Reza Zoughi

@@ -5,7 +5,7 @@ title: Resolution-Based Analysis for Optimizing Subaperture Measurements in Circ
 
 
 publication_types:
-  - "2"
+  - "Journal article"
 authors:
   - Baolong Wu
   - Yuan Gao
