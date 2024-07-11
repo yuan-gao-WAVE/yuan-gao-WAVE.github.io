@@ -4,7 +4,7 @@ doi: 10.1109/TIM.2018.2849519
 title: Towards Accurate and Wideband In Vivo Measurement of Skin Dielectric Properties
 
 
-publication_types: ["2"]
+publication_types: ["Journal Paper"]
 authors:
   - Yuan Gao
   - Mohammad Tayeb Ghasr

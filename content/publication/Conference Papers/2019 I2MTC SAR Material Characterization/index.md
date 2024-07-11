@@ -3,7 +3,7 @@ draft: false
 doi: 10.1109/I2MTC.2019.8827052
 title: Spatial Mapping of Complex Permittivity from Synthetic Aperture Radar (SAR) Images
 url_pdf: ''
-publication_types: ["1"]
+publication_types: ["Conference Paper"]
 authors:
   - Yuan Gao
   - Mohammad Tayeb Ghasr
