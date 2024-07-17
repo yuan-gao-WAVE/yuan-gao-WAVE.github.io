@@ -1,6 +1,6 @@
 ---
 title: Kaixin 开心
-role: Dog
+role: Dogtor
 avatar_filename: avatar.jpg
 bio: ""
 
