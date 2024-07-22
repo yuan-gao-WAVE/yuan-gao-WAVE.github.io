@@ -24,7 +24,7 @@ content:
     - Administration
     - Visitors
     - Alumni
-    - Mascot
+    - Security
 design:
   show_interests: false
   show_role: true
