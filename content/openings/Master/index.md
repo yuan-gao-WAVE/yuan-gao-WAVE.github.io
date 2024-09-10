@@ -3,7 +3,7 @@ title: Openings for Master Students (2025 Fall)
 date: 2024-07-09
 ---
 
-I have two openings for master students in 2025 fall semster. Application open 9/9 to 9/30. Please reach out through email and detailed instructions are shown below.
+I have x openings for master students in 2025 fall semster. Application open  to . Please reach out through email and detailed instructions are shown below.
 <!--more-->
 
 一、导师简介

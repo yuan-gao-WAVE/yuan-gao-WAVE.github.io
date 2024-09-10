@@ -2,7 +2,7 @@
 title: Openings for PhD (2025 Spring)
 date: 2024-07-09
 ---
-I have one opening for PhD in 2025 spring semster. Application open 9/9 to 9/30. Please reach out through email and detailed instructions are shown below.
+I have x opening for PhD in 2025 spring semster. Application open  to . Please reach out through email and detailed instructions are shown below.
 <!--more-->
 
 一、导师简介
