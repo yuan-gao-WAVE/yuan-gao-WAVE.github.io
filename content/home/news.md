@@ -15,4 +15,4 @@ design:
 
 ---
 **10/2024** Welcome! <br>
-**09/2024** Dr. Yuan Gao officially joined the Great Bay University and found the Applied Electromagnetics Lab
+**09/2024** Dr. Yuan Gao officially joined the Great Bay University and found the WAVE Lab
