@@ -9,8 +9,8 @@ sections:
     content:
       title: Contact
       text: |
-      email: ygao@ieee.org
-      phone: 888
+      email: ygao@gbu.edu.cn
+      phone: 
       address:
         street: Songshanhu
         city: Dongguan
