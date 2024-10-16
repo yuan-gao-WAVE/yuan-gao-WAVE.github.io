@@ -1,25 +1,11 @@
 ---
 title: Openings for Master Students (2025 Fall)
-date: 2024-07-09
+date: 2024-10-15
 ---
 
-I have x openings for master students in 2025 fall semster. Application open  to . Please reach out through email and detailed instructions are shown below.
+2025年招收电子信息方向硕士研究生一名，报名时间10月15日至10月28日
 <!--more-->
+招生通知：https://www.gbu.edu.cn/detail/article/1045
 
-一、导师简介
-
-高原，大湾区大学（筹）先进工程学院助理教授、研究员、独立PI。密苏里科技大学博士、前Apple高级电磁兼容工程师。课题组主要从事电磁兼容设计，微波毫米波成像，天线设计，电磁无损检测，以及AR/VR和AI驱动的应用电磁技术等方面的研究。
-
-二、招生方向
-
-
-三、招生信息
-
-
-五、招生条件
-
-六、招生流程
-
-七、课题组相关
-
-八、联系方式
+对我组研究方向感兴趣的可以的通过邮件与有联系
+我的学院个人主页：https://www.gbu.edu.cn/detail/article/993
