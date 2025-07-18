@@ -31,7 +31,7 @@ education:
     - course: BEng in Electrical Engineering
       institution: "Hefei University of Technology 2010"
 email: ""
-superuser: 
+superuser: true
 highlight_name: true
 user_groups:
           - Principal Investigator
