@@ -20,7 +20,8 @@ content:
     - Research Fellow
     - PostDocs
     - Research Assistant
-    - Grad Students
+    - PhD Students
+    - Master Students
     - Administration
     - Visitors
     - Alumni
