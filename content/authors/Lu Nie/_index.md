@@ -31,7 +31,7 @@ email: ""
 
 highlight_name: true
 user_groups:
-          - Principal Investigator
+          - PhD Students
 ---
 
 
