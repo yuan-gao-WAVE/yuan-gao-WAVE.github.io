@@ -15,12 +15,11 @@ social:
     link: https://www.linkedin.com/in/yuangaomst/
     label: ""
 education:
-  courses:
-    - course: Ph.D. in Electrical Engineering
+  - course: Ph.D. in Electrical Engineering
       institution: "Missouri University of Science and Technology 2019"
-    - course: M.Sc in Electrical Engineering
+  - course: M.Sc in Electrical Engineering
       institution: "Harbin Institute of Technology 2013"
-    - course: BEng in Electrical Engineering
+  - course: BEng in Electrical Engineering
       institution: "Hefei University of Technology 2010"
 user_groups:
           - Research Assistant
