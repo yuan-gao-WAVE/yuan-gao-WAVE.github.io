@@ -1,7 +1,7 @@
 ---
 title: Lu NIE (聂禄)
 role: PhD Student
-avatar_filename: avatar.jpg
+avatar_filename: avatar.png
 
 user_groups:
           - PhD Students

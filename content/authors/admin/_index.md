@@ -1,5 +1,5 @@
 ---
-title: Yuan Gao
+title: Yuan GAO (高原)
 role: Assistant Professor at the Great Bay University
 avatar_filename: avatar.jpg
 bio: ""
