@@ -2,7 +2,7 @@
 title: Dai LI (李黛)
 role: Research Assistant
 avatar_filename: 
-bio: ""
+bio: "M.Sc in EE"
 education:
   courses:
     - course: M.Sc in Electrical Engineering
