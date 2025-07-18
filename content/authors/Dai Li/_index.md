@@ -16,11 +16,11 @@ social:
     label: ""
 education:
   - course: Ph.D. in Electrical Engineering
-      institution: "Missouri University of Science and Technology 2019"
+    institution: "Missouri University of Science and Technology 2019"
   - course: M.Sc in Electrical Engineering
-      institution: "Harbin Institute of Technology 2013"
+    institution: "Harbin Institute of Technology 2013"
   - course: BEng in Electrical Engineering
-      institution: "Hefei University of Technology 2010"
+    institution: "Hefei University of Technology 2010"
 user_groups:
           - Research Assistant
 ---
