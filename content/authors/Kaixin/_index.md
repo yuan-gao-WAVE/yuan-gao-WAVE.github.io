@@ -5,5 +5,5 @@ avatar_filename: avatar.jpg
 bio: ""
 
 user_groups:
-          - Security
+          - iSecurity
 ---
